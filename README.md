@@ -8,5 +8,7 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
+    <td>Lucas</td>
+    <td>Jupi</td>
   </tr>
 </table>
